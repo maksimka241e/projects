@@ -40,3 +40,11 @@
     padding-top: 20px;
     margin: 0;
   }
+  .CVContent {
+    width: 98%;
+}
+  @media(max-width:360px){
+    .CVText{
+        font-size: 17px;
+    }
+  }
