@@ -27,7 +27,7 @@ export function MainAbout(){
             <br></br>
             <h3 className='AboutText fontText'>I am quite active on telegram and github, where I share ideas and materials about programming, technology and other things.</h3>
             <br></br>
-            <h3 className='AboutText fontText'>and I also like to read. mostly these books are about some kind of programs or syntax</h3>
+            <h3 className='AboutText fontText'>and I also like to read. Mostly these books are about some kind of programs or syntax</h3>
         </div>
         <FooterBlock></FooterBlock>
     </div>
