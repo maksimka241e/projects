@@ -44,8 +44,8 @@ export function MainCV(){
             </div>
             <div className='CVBlockTitlesAbout'>
                 <h3 className='CVAboutTitle fontTitleCv'>Little bit about me:</h3>
-                <p className='fontText CVText'>I started learning frontend when I was 14 years old. Two years later, I realized that I wanted to connect my life with this profession. In the future, I plan to expand my knowledge in the field of backend development.
-                   I strive for professional growth and development. At the moment, I already have knowledge in the field of HTML, CSS, JavaScript, TypeScript and React. I still have to study a little more information in order to complete the development of all necessary technologies.</p>
+                <p className='fontText CVText'>I started learning frontend development when I was 14 years old and after two years of study, I realized that this is the field I want to pursue. In the future, I plan to continue expanding my knowledge in server-side development.
+                I am committed to professional growth and I strive to become a skilled developer. At the moment, I have a solid foundation in HTML, CSS, JavaScript, TypeScript, and React. However, there is always more to learn and I am eager to continue learning and growing as a developer.</p>
             </div>
         </div>
         <FooterBlock></FooterBlock>
