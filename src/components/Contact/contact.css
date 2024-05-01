@@ -1,0 +1,21 @@
+/* content */
+.ContactBlockContent{
+    display: flex;
+    flex-direction: column;
+    max-width: 550px;
+    width: 100%;
+    height: 80%;
+    min-height:85vh;
+    margin: auto auto;
+  }
+  .ContactTitle{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    margin: 0;
+    text-align: center;
+    font-size: 48px;
+  }
+  .ContactSpan{
+    text-decoration:underline;
+  }
+  

@@ -1,0 +1,42 @@
+/* CV */
+.CVBlockContent{
+    display: flex;
+    flex-direction: column;
+    max-width: 550px;
+    width: 100%;
+    height: 80%;
+    align-items: center;
+    min-height:85vh;
+    margin: auto auto;
+  }
+  .CVContent{
+  }
+  .CVBlockTitles{
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+  }
+  .CVTitle{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    margin: 0;
+    text-align: center;
+    font-size: 48px;
+  }
+  .fontTitleCv{
+    color: #000000;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+  }
+  .CVText{
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 1px;
+  }
+  .CVAboutTitle{
+    padding-top: 20px;
+    margin: 0;
+  }

@@ -1,4 +1,4 @@
-
+import './skills.css';
 import {Link, Outlet} from 'react-router-dom';
 import { FooterBlock } from '../Home/footer';
 import imgCss from './img/css.png';

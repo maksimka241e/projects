@@ -1,4 +1,4 @@
-
+import './home.css';
 import {Link, Outlet} from 'react-router-dom';
 import { FooterBlock } from './footer';
 

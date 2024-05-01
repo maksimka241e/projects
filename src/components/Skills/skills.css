@@ -1,0 +1,48 @@
+/* skills */
+.SkillsBlockContent{
+    display: flex;
+    flex-direction: column;
+    max-width: 550px;
+    width: 100%;
+    height: 80%;
+    align-items: center;
+    min-height:85vh;
+    margin: auto auto;
+  }
+  .SkillsTitle{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    margin: 0;
+    text-align: center;
+    font-size: 48px;
+  }
+  .imgSkills{
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+  }
+  .SkillsBlockImg{
+    display: flex;
+    flex-direction: row;
+  }
+  .SkillsBlockMinImg{
+    display: flex;
+    flex-direction: column;
+  }
+  .SkillsText{
+    font-size: 30px;
+    text-align: center;
+    transition: all 0.3s;
+    margin: 0;
+  }
+  .SkillsText:hover{
+    transition: all 0.3s;
+    color: #1e8cdf;
+    cursor: pointer;
+  }
+  .SkillsReact{
+    padding-left: 3px;
+  }
+  .SkillsTs{
+    padding-right: 0px;
+  }

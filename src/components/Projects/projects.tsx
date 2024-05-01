@@ -1,6 +1,7 @@
 import {Link, Outlet} from 'react-router-dom';
 import { FooterBlock } from '../Home/footer';
 import { projects } from './data/data';
+import './projects.css';
 
 export function MainProjects(){
     return(
