@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter,Routes,Route } from "react-router-dom";
+import {Route, Routes } from "react-router-dom";
 import  { MainHome }   from './components/Home/home';
 import { MainProjects } from './components/Projects/projects';
 import { MainSkills } from "./components/Skills/skills";
@@ -9,7 +9,6 @@ import { MainCV } from "./components/CV/CV";
 
 function App() {
   return (
-    <BrowserRouter>
     <Routes>
       <Route path='*' element={<MainHome></MainHome>}></Route>
       <Route path='/Projects' element={<MainProjects></MainProjects>}></Route>
@@ -18,7 +17,6 @@ function App() {
       <Route path="/About" element={<MainAbout></MainAbout>}></Route>
       <Route path="/Contact" element={<MainContact></MainContact>}></Route>
     </Routes>
-    </BrowserRouter>
   );
 }
 

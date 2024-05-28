@@ -62,4 +62,11 @@ export const projects = [
         title: 'Quiz',
         skills:'CSS REACT',
     },
+    {
+        id: 10,
+        url: 'https://maksimka241e.github.io/newShops/',
+        img: 'https://i.yapx.ru/Xe7Oq.png',
+        title: 'ТЕЛЕБИТ',
+        skills:'CSS REACT',
+    },
 ]
